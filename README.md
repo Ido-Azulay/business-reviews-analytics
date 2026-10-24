@@ -33,7 +33,7 @@ An interactive Streamlit dashboard visualizing analytical results, including:
 
 **1. Install Python and the required packages:**
 
-`pip install streamlit pandas numpy matplotlib seaborn`
+`pip install -r requirements.txt`
 
 **2. From the project directory, run:**
 
